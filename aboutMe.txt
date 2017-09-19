@@ -1,0 +1,3 @@
+Name: Rachel Myers
+Project Goal: Stumble through Git
+Favorite TV Show: Firefly
